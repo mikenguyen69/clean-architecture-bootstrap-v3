@@ -6,10 +6,8 @@ C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.arch
 C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\bin\Debug\netcoreapp2.1\clean.architecture.functional.test.runtimeconfig.dev.json
 C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\bin\Debug\netcoreapp2.1\clean.architecture.functional.test.dll
 C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\bin\Debug\netcoreapp2.1\clean.architecture.functional.test.pdb
-C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\bin\Debug\netcoreapp2.1\clean.architecture.api.dll
 C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\bin\Debug\netcoreapp2.1\clean.architecture.core.dll
 C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\bin\Debug\netcoreapp2.1\clean.architecture.infrastructure.dll
-C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\bin\Debug\netcoreapp2.1\clean.architecture.api.pdb
 C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\bin\Debug\netcoreapp2.1\clean.architecture.core.pdb
 C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\bin\Debug\netcoreapp2.1\clean.architecture.infrastructure.pdb
 C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\obj\Debug\netcoreapp2.1\clean.architecture.functional.test.csprojAssemblyReference.cache

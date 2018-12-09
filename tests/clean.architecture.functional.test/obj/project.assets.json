@@ -1925,21 +1925,6 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "clean.architecture.api/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "Microsoft.NETCore.App": "2.1.0",
-          "clean.architecture.core": "1.0.0",
-          "clean.architecture.infrastructure": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/clean.architecture.api.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/clean.architecture.api.dll": {}
-        }
-      },
       "clean.architecture.core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -6446,11 +6431,6 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "clean.architecture.api/1.0.0": {
-      "type": "project",
-      "path": "../../src/clean.architecture.api/clean.architecture.api.csproj",
-      "msbuildProject": "../../src/clean.architecture.api/clean.architecture.api.csproj"
-    },
     "clean.architecture.core/1.0.0": {
       "type": "project",
       "path": "../../src/clean.architecture.core/clean.architecture.core.csproj",
@@ -6466,7 +6446,6 @@
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
-      "clean.architecture.api >= 1.0.0",
       "clean.architecture.core >= 1.0.0",
       "clean.architecture.infrastructure >= 1.0.0",
       "xunit >= 2.3.1",
@@ -6503,9 +6482,6 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\nguye\\Documents\\GitHub\\clean-architecture-bootstrap-v3\\src\\clean.architecture.api\\clean.architecture.api.csproj": {
-              "projectPath": "C:\\Users\\nguye\\Documents\\GitHub\\clean-architecture-bootstrap-v3\\src\\clean.architecture.api\\clean.architecture.api.csproj"
-            },
             "C:\\Users\\nguye\\Documents\\GitHub\\clean-architecture-bootstrap-v3\\src\\clean.architecture.core\\clean.architecture.core.csproj": {
               "projectPath": "C:\\Users\\nguye\\Documents\\GitHub\\clean-architecture-bootstrap-v3\\src\\clean.architecture.core\\clean.architecture.core.csproj"
             },

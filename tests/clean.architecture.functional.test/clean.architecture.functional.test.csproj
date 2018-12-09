@@ -13,7 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\clean.architecture.api\clean.architecture.api.csproj" />
     <ProjectReference Include="..\..\src\clean.architecture.core\clean.architecture.core.csproj" />
     <ProjectReference Include="..\..\src\clean.architecture.infrastructure\clean.architecture.infrastructure.csproj" />
   </ItemGroup>
