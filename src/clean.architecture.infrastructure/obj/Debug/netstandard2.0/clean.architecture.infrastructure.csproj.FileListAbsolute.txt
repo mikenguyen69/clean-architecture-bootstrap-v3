@@ -1,0 +1,12 @@
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\bin\Debug\netstandard2.0\clean.architecture.infrastructure.deps.json
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\bin\Debug\netstandard2.0\clean.architecture.infrastructure.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\bin\Debug\netstandard2.0\clean.architecture.infrastructure.pdb
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\bin\Debug\netstandard2.0\clean.architecture.core.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\bin\Debug\netstandard2.0\clean.architecture.core.pdb
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\obj\Debug\netstandard2.0\clean.architecture.infrastructure.csprojAssemblyReference.cache
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\obj\Debug\netstandard2.0\clean.architecture.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\obj\Debug\netstandard2.0\clean.architecture.infrastructure.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\obj\Debug\netstandard2.0\clean.architecture.infrastructure.AssemblyInfo.cs
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\obj\Debug\netstandard2.0\clean.architecture.infrastructure.csproj.CopyComplete
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\obj\Debug\netstandard2.0\clean.architecture.infrastructure.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.infrastructure\obj\Debug\netstandard2.0\clean.architecture.infrastructure.pdb

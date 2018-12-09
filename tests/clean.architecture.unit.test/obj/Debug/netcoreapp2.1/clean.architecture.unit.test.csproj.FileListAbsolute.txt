@@ -1,0 +1,17 @@
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\bin\Debug\netcoreapp2.1\clean.architecture.unit.test.deps.json
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\bin\Debug\netcoreapp2.1\clean.architecture.unit.test.runtimeconfig.json
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\bin\Debug\netcoreapp2.1\clean.architecture.unit.test.runtimeconfig.dev.json
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\bin\Debug\netcoreapp2.1\clean.architecture.unit.test.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\bin\Debug\netcoreapp2.1\clean.architecture.unit.test.pdb
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\bin\Debug\netcoreapp2.1\clean.architecture.core.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\bin\Debug\netcoreapp2.1\clean.architecture.core.pdb
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\obj\Debug\netcoreapp2.1\clean.architecture.unit.test.csprojAssemblyReference.cache
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\obj\Debug\netcoreapp2.1\clean.architecture.unit.test.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\obj\Debug\netcoreapp2.1\clean.architecture.unit.test.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\obj\Debug\netcoreapp2.1\clean.architecture.unit.test.AssemblyInfo.cs
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\obj\Debug\netcoreapp2.1\clean.architecture.unit.test.csproj.CopyComplete
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\obj\Debug\netcoreapp2.1\clean.architecture.unit.test.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.unit.test\obj\Debug\netcoreapp2.1\clean.architecture.unit.test.pdb

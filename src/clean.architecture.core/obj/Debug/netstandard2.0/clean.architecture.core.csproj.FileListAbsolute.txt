@@ -1,0 +1,8 @@
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.core\bin\Debug\netstandard2.0\clean.architecture.core.deps.json
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.core\bin\Debug\netstandard2.0\clean.architecture.core.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.core\bin\Debug\netstandard2.0\clean.architecture.core.pdb
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.core\obj\Debug\netstandard2.0\clean.architecture.core.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.core\obj\Debug\netstandard2.0\clean.architecture.core.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.core\obj\Debug\netstandard2.0\clean.architecture.core.AssemblyInfo.cs
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.core\obj\Debug\netstandard2.0\clean.architecture.core.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\src\clean.architecture.core\obj\Debug\netstandard2.0\clean.architecture.core.pdb
