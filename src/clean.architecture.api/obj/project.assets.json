@@ -1798,6 +1798,35 @@
           }
         }
       },
+      "StructureMap/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.0",
+          "System.Collections.Concurrent": "4.0.12",
+          "System.Reflection.Emit.Lightweight": "4.3.0",
+          "System.Reflection.TypeExtensions": "4.1.0",
+          "System.Runtime.Loader": "4.0.0"
+        },
+        "compile": {
+          "lib/netstandard1.5/StructureMap.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.5/StructureMap.dll": {}
+        }
+      },
+      "StructureMap.Microsoft.DependencyInjection/1.4.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0",
+          "StructureMap": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/StructureMap.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/StructureMap.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -2240,7 +2269,7 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/_._": {}
+          "ref/netstandard1.0/System.Reflection.Emit.ILGeneration.dll": {}
         },
         "runtime": {
           "lib/netstandard1.3/System.Reflection.Emit.ILGeneration.dll": {}
@@ -2255,7 +2284,7 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/_._": {}
+          "ref/netstandard1.0/System.Reflection.Emit.Lightweight.dll": {}
         },
         "runtime": {
           "lib/netstandard1.3/System.Reflection.Emit.Lightweight.dll": {}
@@ -2397,6 +2426,20 @@
             "assetType": "runtime",
             "rid": "win"
           }
+        }
+      },
+      "System.Runtime.Loader/4.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.IO": "4.1.0",
+          "System.Reflection": "4.1.0",
+          "System.Runtime": "4.1.0"
+        },
+        "compile": {
+          "ref/netstandard1.5/System.Runtime.Loader.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.5/System.Runtime.Loader.dll": {}
         }
       },
       "System.Runtime.Numerics/4.3.0": {
@@ -2978,6 +3021,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "2.2.0",
+          "StructureMap.Microsoft.DependencyInjection": "1.4.0",
           "clean.architecture.core": "1.0.0"
         },
         "compile": {
@@ -4991,6 +5035,36 @@
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.nuspec",
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
+      ]
+    },
+    "StructureMap/4.5.0": {
+      "sha512": "P7Xsq8IcxUcrXdGusACcyaIIN/PAlo6XvnPOJHzth4tcNlXAd+tqckytKLJcFaLSnwc5rcTtBk95R71xvu6aaA==",
+      "type": "package",
+      "path": "structuremap/4.5.0",
+      "files": [
+        "lib/net45/StructureMap.dll",
+        "lib/net45/StructureMap.xml",
+        "lib/netstandard1.3/StructureMap.dll",
+        "lib/netstandard1.3/StructureMap.xml",
+        "lib/netstandard1.5/StructureMap.dll",
+        "lib/netstandard1.5/StructureMap.xml",
+        "structuremap.4.5.0.nupkg.sha512",
+        "structuremap.nuspec"
+      ]
+    },
+    "StructureMap.Microsoft.DependencyInjection/1.4.0": {
+      "sha512": "AF7VfvkZ0N0Fgm/HvUiRQEySPFuAi125MBehVQxCyHQkieIriG1r7OCs6LlmE3UXvRBbQecoOU4bWroaB5dS3g==",
+      "type": "package",
+      "path": "structuremap.microsoft.dependencyinjection/1.4.0",
+      "files": [
+        "lib/net451/StructureMap.Microsoft.DependencyInjection.dll",
+        "lib/net451/StructureMap.Microsoft.DependencyInjection.xml",
+        "lib/netstandard1.3/StructureMap.Microsoft.DependencyInjection.dll",
+        "lib/netstandard1.3/StructureMap.Microsoft.DependencyInjection.xml",
+        "lib/netstandard2.0/StructureMap.Microsoft.DependencyInjection.dll",
+        "lib/netstandard2.0/StructureMap.Microsoft.DependencyInjection.xml",
+        "structuremap.microsoft.dependencyinjection.1.4.0.nupkg.sha512",
+        "structuremap.microsoft.dependencyinjection.nuspec"
       ]
     },
     "System.AppContext/4.3.0": {
@@ -7231,6 +7305,30 @@
         "runtimes/win/lib/netstandard1.1/System.Runtime.InteropServices.RuntimeInformation.dll",
         "system.runtime.interopservices.runtimeinformation.4.0.0.nupkg.sha512",
         "system.runtime.interopservices.runtimeinformation.nuspec"
+      ]
+    },
+    "System.Runtime.Loader/4.0.0": {
+      "sha512": "EHaD1GW4kWEby01DYX0UAabeBgIX1Mleu+IJW8AstYe8xm0MLZlEj3EKzjpNh9tp1tnT/7/eTEN3uqJg690fUA==",
+      "type": "package",
+      "path": "system.runtime.loader/4.0.0",
+      "files": [
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/net462/_._",
+        "lib/netstandard1.5/System.Runtime.Loader.dll",
+        "ref/netstandard1.5/System.Runtime.Loader.dll",
+        "ref/netstandard1.5/System.Runtime.Loader.xml",
+        "ref/netstandard1.5/de/System.Runtime.Loader.xml",
+        "ref/netstandard1.5/es/System.Runtime.Loader.xml",
+        "ref/netstandard1.5/fr/System.Runtime.Loader.xml",
+        "ref/netstandard1.5/it/System.Runtime.Loader.xml",
+        "ref/netstandard1.5/ja/System.Runtime.Loader.xml",
+        "ref/netstandard1.5/ko/System.Runtime.Loader.xml",
+        "ref/netstandard1.5/ru/System.Runtime.Loader.xml",
+        "ref/netstandard1.5/zh-hans/System.Runtime.Loader.xml",
+        "ref/netstandard1.5/zh-hant/System.Runtime.Loader.xml",
+        "system.runtime.loader.4.0.0.nupkg.sha512",
+        "system.runtime.loader.nuspec"
       ]
     },
     "System.Runtime.Numerics/4.3.0": {
