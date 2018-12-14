@@ -17,3 +17,5 @@ C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.arch
 C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\obj\Debug\netcoreapp2.1\clean.architecture.functional.test.csproj.CopyComplete
 C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\obj\Debug\netcoreapp2.1\clean.architecture.functional.test.dll
 C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\obj\Debug\netcoreapp2.1\clean.architecture.functional.test.pdb
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\bin\Debug\netcoreapp2.1\clean.architecture.api.dll
+C:\Users\nguye\Documents\GitHub\clean-architecture-bootstrap-v3\tests\clean.architecture.functional.test\bin\Debug\netcoreapp2.1\clean.architecture.api.pdb
